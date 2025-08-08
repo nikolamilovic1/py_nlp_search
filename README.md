@@ -75,6 +75,6 @@ Linux/macOS: (Tested on Linux)
   - CUDA Toolkit (nvcc): 12.0  
 - **Storage**: NVMe SSD 500 GB
 - **Python**: 3.10.12
-- **Ollama**: 0.1.32
+- **Ollama**: 0.11.4
 - **Mistral Model**: mistral:latest (7.25B params, quantized, ~4.4 GB on disk)
 
