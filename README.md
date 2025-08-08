@@ -7,8 +7,8 @@ FastAPI backend that turns natural-language shopping queries into structured fil
 1) Clone
 
 ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/nikolamilovic1/py_nlp_search.git
+   cd py_nlp_search
 ```
 
 2) Create virtual environment (Python 3.10)
